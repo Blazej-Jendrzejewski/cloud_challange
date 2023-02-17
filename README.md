@@ -1,4 +1,4 @@
-# cloud_challange
+# cloud_Challenge
 DareIT tasks
 💡
-DareIT Cloud Challange 2023
+DareIT Cloud Challenge 2023
