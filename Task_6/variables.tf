@@ -1,6 +1,6 @@
-variable "bucket_name2" {
+variable "bucket_name2a" {
   type    = string
-  default = "my-bucket2"
+  default = "my-bucket2a"
 }
 
 variable "instance_name2" {
